@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cronos1967" alt="cronos1967" /></a> </p>
 
-- 🌱 I’m currently learning **Alx-intranet**
 
 - 💬 Ask me about **Angular,javascript,php,typescript**
 
